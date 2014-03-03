@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strut", "Strut\Strut.csproj", "{E2BDC036-B5FE-4796-AEFB-463A79E8EA44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KPT", "KPT\KPT.csproj", "{0DF2727F-C2EE-4FC9-B544-6416EB62FB06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KSP", "KSP\KSP.csproj", "{F36CF466-F508-4F7F-B635-00DB5258E79C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DF2727F-C2EE-4FC9-B544-6416EB62FB06}.Debug|x86.ActiveCfg = Debug|x86
+		{0DF2727F-C2EE-4FC9-B544-6416EB62FB06}.Debug|x86.Build.0 = Debug|x86
+		{0DF2727F-C2EE-4FC9-B544-6416EB62FB06}.Release|x86.ActiveCfg = Release|x86
+		{0DF2727F-C2EE-4FC9-B544-6416EB62FB06}.Release|x86.Build.0 = Release|x86
+		{E2BDC036-B5FE-4796-AEFB-463A79E8EA44}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{E2BDC036-B5FE-4796-AEFB-463A79E8EA44}.Debug|x86.Build.0 = Debug|Any CPU
+		{E2BDC036-B5FE-4796-AEFB-463A79E8EA44}.Release|x86.ActiveCfg = Release|Any CPU
+		{E2BDC036-B5FE-4796-AEFB-463A79E8EA44}.Release|x86.Build.0 = Release|Any CPU
+		{F36CF466-F508-4F7F-B635-00DB5258E79C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F36CF466-F508-4F7F-B635-00DB5258E79C}.Debug|x86.Build.0 = Debug|Any CPU
+		{F36CF466-F508-4F7F-B635-00DB5258E79C}.Release|x86.ActiveCfg = Release|Any CPU
+		{F36CF466-F508-4F7F-B635-00DB5258E79C}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = KPT\KPT.csproj
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = None
+		$1.ResourceNamePolicy = FileFormatDefault
+		$0.VersionControlPolicy = $2
+		$2.inheritsSet = Mono
+		$0.ChangeLogPolicy = $3
+		$3.UpdateMode = None
+		$3.MessageStyle = $4
+		$4.LineAlign = 0
+		$3.inheritsSet = Mono
+	EndGlobalSection
+EndGlobal
